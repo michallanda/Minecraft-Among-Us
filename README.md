@@ -19,7 +19,13 @@ Wires works by putting the player into a seperate area with a wall tens of block
 
 Camera functionality was also added in partially, and players can view certain areas of the map through a "camera" without the other players knowing they are viewing. 
 
+<img align="center" src="./img/susmedbay.gif">
+
+
+<img align="center" src="./img/suswires.gif">
+
 ### Imposter 
 
 Venting has been coded in, where an imposter would be able to stand over a vent, enter the vent, and view the near by area while in the vent. They are also able to switch vents in certain directions and view those vents as well as leave the vent.
 
+<img align="center" src="./img/susvents.gif">
