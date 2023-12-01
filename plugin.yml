@@ -1,0 +1,31 @@
+name: amongus
+main: wtf.drav.amongus.Main
+version: 1.0
+author: Drav
+api-version: 1.16
+commands:
+   MongusMapCreator:
+      description: Creates a Map
+      usage: /MongusMapCreator
+      permission: dravparkour.pkcontrol
+      permission-message: You don't have permission dravparkour.pkcontrol!
+   NewWorld:
+      description: Loads a new world
+      usage: /newworld
+      permission: dravparkour.pkcontrol
+      permission-message: You don't have permission dravparkour.pkcontrol!
+   testvents:
+      description: Command to run the vents 
+      usage: /testvents
+      permission: dravparkour.pkcontrol
+      permission-message: You don't have permission dravparkour.pkcontrol!
+   worldtp:
+      description: teleport to a world
+      usage: /worldtp
+      permission: dravparkour.pkcontrol
+      permission-message: You don't have permission dravparkour.pkcontrol!
+   lobby:
+      description: Go back to lobby
+      usage: /lobby
+      permission: dravparkour.pkcontrol
+      permission-message: You don't have permission dravparkour.pkcontrol!
